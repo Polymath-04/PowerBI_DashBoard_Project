@@ -50,10 +50,3 @@ The segment-wise growth analysis underscores the dynamic evolution of the Indian
 
 This project aims to provide actionable insights into the development of India’s power markets, supporting informed decision-making and strategic planning for all stakeholders.
 
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/50990427/99400479-9dca-47cf-b15b-c25d1c8ec02f/powerbi-imagees.docx
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/50990427/99400479-9dca-47cf-b15b-c25d1c8ec02f/powerbi-imagees.docx
-
----
-Answer from Perplexity: pplx.ai/share
